@@ -1,0 +1,19 @@
+Folder Structure:
+    Node modules: libraries use in react app
+    public: All public assets like fav icon and all the images
+    src: Contains all coding files
+    package.json: Contains dependencies
+    package-lock.json: Contains dev-dependencies, required at the time of development.
+    index.css: global styling
+    index.html: Basic html file to be rendered on browser
+
+We use () after return means "return()" when we want to have multiple lines to return
+
+install react-router-dom to create a single page application.
+SPA does not refresh page on different routes or clicks
+we use LINKS , BrowserRouter Routes, Route for this pupose 
+
+
+
+
+
